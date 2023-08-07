@@ -3,3 +3,7 @@
 pages/__pycache__
 /logs
 /__pycache__
+tests/mobile_tests/__pycache__
+tests/web_tests/__pycache__
+tests/web_tests/.pytest_cache
+tests/pages/__pycache__

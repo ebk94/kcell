@@ -1,8 +1,11 @@
 import pytest
+import sys
+import os 
+
 from pages.RegistrationPage import RegistrationPage
 from pages.locators import FormsPageLocators
 import time
-import os
+
 
 baseURL = "https://demoqa.com/automation-practice-form"
 file_path = os.getcwd() + '/data/qa-2-min.png'
